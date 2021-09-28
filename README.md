@@ -1,4 +1,4 @@
-# In Head style sheet for Jetpack Compose
+# In Head style sheet for JB Compose Web
 
 This demonstrates the use of a Compose StyleSheet directly in the head element rather than being mounted as part of the
 Compose tree.
