@@ -3,6 +3,8 @@
 This demonstrates the use of a Compose StyleSheet directly in the head element rather than being mounted as part of the
 Compose tree.
 
+It is a companion project to [Compose-JB issue #1207](https://github.com/JetBrains/compose-jb/issues/1207).
+
 This demo shows the difference in number of composition between the 2 solutions.
 **Note that composition is slowed down to one pass per second** to make the difference understandable by our primitive eyes
 &  brains.
